@@ -1,6 +1,6 @@
 
 ---------------
-This is my own version of the linux kernel which I have been modifying. You can see all modifications listed below.
+This is my own version of the linux kernel which I have been modifying for the purposes of learning kernel programming. You can see all modifications listed below.
 
 Current modifications:
 encrypt system call which takes a user-specified string and encryption key, encrypts the string, and prints it out.
